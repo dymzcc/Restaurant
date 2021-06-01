@@ -1,0 +1,21 @@
+{
+  "app_name": "areyouanxious",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "dede",
+    "host": "39.97.212.145",
+    "port": "3306",
+    "db_name": "cloud",
+    "timeout": "10s"
+  },
+  "redis": {
+    "addr": "39.97.212.145",
+    "port": "6379",
+    "password": "dede",
+    "db": 0
+  }
+}
